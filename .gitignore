@@ -13,7 +13,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-
+Library/
+obj/
+Logs/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -52,18 +54,6 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.psd
-
-Library/
-Logliner_co/Library
-Logliner/[Tt]emp
-Logliner/[Oo]bj
-Logliner/[Bb]uild
-Logliner/[Ll]ogs
-Logliner/Logs
-obj/
-Logs/
-Logliner_co/Logs
-Logliner_co/obj
 
 # Unity3D generated meta files
 *.pidb.meta
